@@ -6,10 +6,10 @@ const Homepage = () => {
     <Box className='bordered' display='flex' flexDirection='column' p={10} alignItems="center">
       <Box maxWidth="800px" textAlign="center">
         <Typography variant='h4' sx={{ letterSpacing: '2px', textTransform: 'uppercase', color: '#007BFF', marginBottom: '20px' }}>
-          Welcome to BlockShare
+          Welcome to the BLOCK
         </Typography>
         <Typography variant='p' fontSize='18px' paragraph={true} style={{ color: '#333333', marginBottom: '20px' }}>
-          Share your thoughts, ideas, and more with BlockShare, the decentralized platform for creative expression.
+          Share your thoughts, ideas, and more with the Block, the decentralized platform for creative expression.
           <br />
           Create a post and save or remember your unique CID for easy sharing.
         </Typography>
@@ -23,9 +23,9 @@ const Homepage = () => {
         <Typography variant='p' fontSize='18px' paragraph={true} style={{ color: '#333333' }}>
           All your posts are securely stored in Web3.storage IPFS clusters. Make sure to have your own cluster at{' '}
           <a href="https://web3.storage/" target='_blank' rel='noreferrer' style={{ color: '#007BFF' }}>
-            Web3.storage
+          Web3.storage
           </a>{' '}
-          for full control.
+          for full control. The first 5GB of storage is free.
         </Typography>
       </Box>
     </Box>

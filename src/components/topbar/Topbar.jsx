@@ -30,7 +30,7 @@ const Topbar = () => {
             variant='p'
             sx={{textTransform: 'uppercase', letterSpacing: '2px', fontSize: '16px', fontWeight: '600', userSelect: 'none'}}
         >
-            BLOCKSHARE 
+            BLOCK. 
         </Typography>
         <Dna
             visible={true}
