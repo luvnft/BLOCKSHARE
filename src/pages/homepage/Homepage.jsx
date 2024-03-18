@@ -14,8 +14,8 @@ const Homepage = () => {
             Love BRC
           </a>{' '} 
           or in the LUV NFT Discord {' '}
-          <a href="https://t.me/lovebrc" target='_blank' rel='noreferrer' style={{ color: '#007BFF' }}>
-            #bitcoin channel
+          <a href="https://discord.gg/PNFrxJNG6z" target='_blank' rel='noreferrer' style={{ color: '#007BFF' }}>
+            #bitcoin channel.
           </a>{' '} 
           <br />
         </Typography>
