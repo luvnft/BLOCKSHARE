@@ -6,12 +6,18 @@ const Homepage = () => {
     <Box className='bordered' display='flex' flexDirection='column' p={10} alignItems="center">
       <Box maxWidth="800px" textAlign="center">
         <Typography variant='h4' sx={{ letterSpacing: '2px', textTransform: 'uppercase', color: '#007BFF', marginBottom: '20px' }}>
-          Welcome to the BLOCK
+          Web5 AD.
         </Typography>
         <Typography variant='p' fontSize='18px' paragraph={true} style={{ color: '#333333', marginBottom: '20px' }}>
-          Share your thoughts, ideas, and more with the Block, the decentralized platform for creative expression.
+          Promote your biz AD for Bitcoin $RNT or L$VE in Telegram {' '}
+          <a href="https://t.me/lovebrc" target='_blank' rel='noreferrer' style={{ color: '#007BFF' }}>
+            Love BRC
+          </a>{' '} 
+          or in the LUV NFT Discord {' '}
+          <a href="https://t.me/lovebrc" target='_blank' rel='noreferrer' style={{ color: '#007BFF' }}>
+            #bitcoin channel
+          </a>{' '} 
           <br />
-          Create a post and save or remember your unique CID for easy sharing.
         </Typography>
         <Typography variant='p' fontSize='18px' paragraph={true} style={{ color: '#333333', marginBottom: '20px' }}>
           Start writing your posts using Markdown, and check out these{' '}

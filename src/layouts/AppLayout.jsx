@@ -17,11 +17,11 @@ const AppLayout = () => {
       </main>
       <footer className="app-footer">
         <div className="footer-content">
-          <p>Made By</p>
+          <p>MADE WITH</p>
           <span className="heart-icon">
             <Favorite sx={{ fill: 'red' }} />
           </span>
-          <p>Team Talented Tyrants</p>
+          <p>LUV NFT</p>
         </div>
       </footer>
     </>
